@@ -1,4 +1,4 @@
-# IoT-smarthome
+# IoT-스마트홈
 스마트홈 연동 모니터링앱
 
 ## 1일차
@@ -66,7 +66,7 @@ https://github.com/user-attachments/assets/c6beab73-7d4f-4a3a-aea0-8706390005c0
     
 ## 2일차 
 
-### 스마트홈 연동 모니터링앱 (계속)
+### 스마트홈 연동 모니터링앱
 - MQTT 부터 시작
 
 #### 네트워크 확인
@@ -80,7 +80,7 @@ https://github.com/user-attachments/assets/c6beab73-7d4f-4a3a-aea0-8706390005c0
     > telnet 127.0.0.1 1883
     ```
 
-#### MQTT 시뮬레이션 (계속)
+#### MQTT 시뮬레이션 
 1. MqttPub.py 소스코드에 Fake IoT 센서값 전달 코딩
 2. Fake 센싱값을 json으로 Publish
 3. C# MahApps.Metro 사용 MQTT 데이터 Subscriber앱
@@ -103,7 +103,7 @@ https://github.com/user-attachments/assets/bb14b3e7-f52d-4d4c-8ad1-01aaca9c38bc
 
 ## 3일차
 
-### 스마트홈 연동 모니터링앱(계속)
+### 스마트홈 연동 모니터링앱
 
 #### 스마트홈 기기 실제 IoT센서데이터 모니터링앱
 - 2일차 작성한 MQTT Subscribe 앱
@@ -136,4 +136,4 @@ https://github.com/user-attachments/assets/bb14b3e7-f52d-4d4c-8ad1-01aaca9c38bc
 
     스마트홈 모니터링앱 동작영상
 
-### Github 대문 꾸미기
+
